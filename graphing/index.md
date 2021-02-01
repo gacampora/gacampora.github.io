@@ -3,6 +3,6 @@ title: Graphing
 description: Course Content
 ---
 
-Here are graphs I made in my CTBA course.
-- [Basic Graphing Assignment(html)](BasicGraphAssignment.html)
-- [Basic Graphing Assignment(ipynb)](BasicGraphAssignment.ipynb)
+These are graphs I have made in Python using a variety of data from my CTBA course:
+- [Different Types of Graphs in Python (html)](GraphsInPython.html)
+- [Different Types of Graphs in Python (ipynb)](GraphsInPython.ipynb)
