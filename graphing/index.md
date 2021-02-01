@@ -9,3 +9,5 @@ These are graphs I have made in Python using a variety of data from my CTBA cour
 
 This is an additional repository with the graphs I have created.
 - [Sample Repository](https://github.com/gacampora/Sample)
+
+- [Return to Homepage](/gacampora.github.io/index.md)
