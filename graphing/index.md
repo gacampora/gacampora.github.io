@@ -12,4 +12,4 @@ This is an additional repository with the graphs I have created.
 
 
 
-[Return to Homepage](/index.md)
+[Return to Homepage](https://gacampora.github.io/)
